@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-12T13:35:41 IST" name="Default suite" finished-at="2022-07-12T13:36:35 IST" duration-ms="53274">
+    <groups>
+    </groups>
+    <test started-at="2022-07-12T13:35:41 IST" name="Default test" finished-at="2022-07-12T13:36:35 IST" duration-ms="53274">
+      <class name="testNgKiteTestNew.validatingKiteUserIDUsingPropertyFile">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testNgKiteTestNew.validatingKiteUserIDUsingPropertyFile@2e385cce]" started-at="2022-07-12T13:35:42 IST" name="launchBrowser" finished-at="2022-07-12T13:36:27 IST" duration-ms="44848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToKite()[pri:0, instance:testNgKiteTestNew.validatingKiteUserIDUsingPropertyFile@2e385cce]" started-at="2022-07-12T13:36:27 IST" name="loginToKite" finished-at="2022-07-12T13:36:28 IST" duration-ms="1589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToKite -->
+        <test-method signature="validateuserID()[pri:0, instance:testNgKiteTestNew.validatingKiteUserIDUsingPropertyFile@2e385cce]" started-at="2022-07-12T13:36:28 IST" name="validateuserID" finished-at="2022-07-12T13:36:32 IST" duration-ms="3569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateuserID -->
+        <test-method is-config="true" signature="LogOutFromKite()[pri:0, instance:testNgKiteTestNew.validatingKiteUserIDUsingPropertyFile@2e385cce]" started-at="2022-07-12T13:36:32 IST" name="LogOutFromKite" finished-at="2022-07-12T13:36:34 IST" duration-ms="1819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutFromKite -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testNgKiteTestNew.validatingKiteUserIDUsingPropertyFile@2e385cce]" started-at="2022-07-12T13:36:34 IST" name="closeBrowser" finished-at="2022-07-12T13:36:35 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testNgKiteTestNew.validatingKiteUserIDUsingPropertyFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
